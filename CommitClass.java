@@ -4,5 +4,7 @@ public class CommitClass {
 
         System.out.println("Aqui se evidencia el primer commit de David");
 
+        System.out.println("Sebastian segundo en entrar");
+
     }
 }
